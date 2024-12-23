@@ -147,10 +147,12 @@ The predition maps of SALI can be downloaded via this [link](https://drive.googl
 If you find our paper and code useful in your research, please consider giving us a star ⭐ and citing SALI by the following BibTeX entry.
 
 ```bash
-@article{hu2024salishorttermalignmentlongterm,
-  title        =       {SALI: Short-term Alignment and Long-term Interaction Network for Colonoscopy Video Polyp Segmentation}, 
-  author       =       {Qiang Hu and Zhenyu Yi and Ying Zhou and Fang Peng and Mei Liu and Qiang Li and Zhiwei Wang},
-  journal      =       {arXiv preprint arXiv:2406.13532},
-  year         =       {2024},
+@inproceedings{hu2024sali,
+  title={SALI: Short-Term Alignment and Long-Term Interaction Network for Colonoscopy Video Polyp Segmentation},
+  author={Hu, Qiang and Yi, Zhenyu and Zhou, Ying and Peng, Fang and Liu, Mei and Li, Qiang and Wang, Zhiwei},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={531--541},
+  year={2024},
+  organization={Springer}
 }
 ```
